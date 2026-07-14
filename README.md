@@ -2,7 +2,7 @@
 
 Full-screen workshop presentation for the **LSSTF-CACCOV July 2026 Cybersecurity Campaign**.
 
-**Event:** Saturday, 18 July 2026 · 7:00 PM · Virtual (YouTube)  
+**Event:** Saturday, 18 July 2026 · 7:00 PM · Virtual  
 **Led by:** Mesole Emmanuel · Head of Programmes & Outreaches, LSSTF-CACCOV
 
 Built as a static site (`index.html` + `styles.css` + `app.js`) for live delivery — keyboard navigation, fullscreen, and continuous workshop demos on selected stories.
