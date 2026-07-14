@@ -57,6 +57,7 @@ Or connect the GitHub repo in the Vercel dashboard and deploy — leave **Framew
 4. Stories 1–8  
 5. Closing stats  
 6. Thank you  
+7. Questions
 
 ### Stories
 
